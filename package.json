@@ -1,0 +1,16 @@
+{
+  "name": "challenge_10_vw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Victor Weinert",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
