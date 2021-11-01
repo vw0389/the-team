@@ -9,7 +9,6 @@
   "author": "Victor Weinert",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.1.3",
     "inquirer": "^8.2.0",
     "jest": "^27.3.1"
   }
